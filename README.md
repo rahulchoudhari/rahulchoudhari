@@ -28,7 +28,7 @@ I specialize in the intersection of **Agentic AI**, **platform engineering**, an
 ┌─────────────────────────────────────────────────────────────────┐
 │                  UNIFIED OPERATIONS CENTER (UOC)                │
 ├──────────────────┬──────────────────┬───────────────────────────┤
-│ 🔍 Vulnerability │  📋 Compliance   │  ⚡ Ops Support           │
+│ 🔍 Vulnerability │  📋 Compliance   │  ⚡ Ops Support            │
 │  Management      │  Monitoring      │                           │
 │                  │                  │                           │
 │  AI agents scan, │  FedRAMP/SOC2/   │  Intelligent runbook      │
@@ -36,8 +36,8 @@ I specialize in the intersection of **Agentic AI**, **platform engineering**, an
 │  remediate CVEs  │  continuous      │  correlation &            │
 │  across clouds   │  monitoring      │  auto-escalation          │
 ├──────────────────┴──────────────────┴───────────────────────────┤
-│  📝 Auto RCA Generation    🗣️ Voice-based Jira Creation          │
-│  📄 Confluence Doc Automation    🔄 AI-Powered PR Reviews        │
+│  📝 Auto RCA Generation    🗣️ Voice-based Jira Creation         │
+│  📄 Confluence Doc Automation    🔄 AI-Powered PR Reviews       │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
