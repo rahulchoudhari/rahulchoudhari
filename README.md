@@ -134,17 +134,17 @@ I specialize in the intersection of **Agentic AI**, **platform engineering**, an
 
 <div align="center">
 
-> 🔗 **[View all verified badges on Credly →](https://www.credly.com/users/choudharirahul/badges)**
+> 🔗 **[View all verified badges on Credly →](https://www.credly.com/users/rahulchoudhari/badges#credly)**
 
 | Badge | Certification | Issuer |
 |-------|--------------|--------|
-| [![AWS](https://img.shields.io/badge/Verified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/users/choudharirahul/badges) | ☁️ AWS Certified Solutions Architect | Amazon Web Services |
-| [![CKA](https://img.shields.io/badge/Verified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/users/choudharirahul/badges) | ⚙️ Certified Kubernetes Administrator (CKA) | CNCF |
-| [![CKAD](https://img.shields.io/badge/Verified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/users/choudharirahul/badges) | ⚙️ Certified Kubernetes Application Developer (CKAD) | CNCF |
-| [![Azure](https://img.shields.io/badge/Verified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://www.credly.com/users/choudharirahul/badges) | 🔷 Microsoft Certified: Azure Administrator & Expert | Microsoft |
-| [![Jenkins](https://img.shields.io/badge/Verified-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.credly.com/users/choudharirahul/badges) | 🔧 Certified Jenkins Engineer | CloudBees |
-| [![GenAI](https://img.shields.io/badge/Verified-412991?style=flat-square&logo=openai&logoColor=white)](https://www.credly.com/users/choudharirahul/badges) | 🤖 Generative AI Certification | — |
-| [![Cyber](https://img.shields.io/badge/Verified-1F4E79?style=flat-square&logo=shield&logoColor=white)](https://www.credly.com/users/choudharirahul/badges) | 🔒 Cybersecurity Tools and Essentials | — |
+| [![AWS](https://img.shields.io/badge/Verified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/users/rahulchoudhari/badges#credly) | ☁️ AWS Certified Solutions Architect | Amazon Web Services |
+| [![CKA](https://img.shields.io/badge/Verified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/users/rahulchoudhari/badges#credly) | ⚙️ Certified Kubernetes Administrator (CKA) | CNCF |
+| [![CKAD](https://img.shields.io/badge/Verified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/users/rahulchoudhari/badges#credly) | ⚙️ Certified Kubernetes Application Developer (CKAD) | CNCF |
+| [![Azure](https://img.shields.io/badge/Verified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://www.credly.com/users/rahulchoudhari/badges#credly) | 🔷 Microsoft Certified: Azure Administrator & Expert | Microsoft |
+| [![Jenkins](https://img.shields.io/badge/Verified-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.credly.com/users/rahulchoudhari/badges#credly) | 🔧 Certified Jenkins Engineer | CloudBees |
+| [![GenAI](https://img.shields.io/badge/Verified-412991?style=flat-square&logo=openai&logoColor=white)](https://www.credly.com/users/rahulchoudhari/badges#credly) | 🤖 Generative AI Certification | — |
+| [![Cyber](https://img.shields.io/badge/Verified-1F4E79?style=flat-square&logo=shield&logoColor=white)](https://www.credly.com/users/rahulchoudhari/badges#credly) | 🔒 Cybersecurity Tools and Essentials | — |
 
 </div>
 
