@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2E75B6&height=200&section=header&text=Rahul%20Choudhari&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Lead%20SRE%20%7C%20Lead%20Security%20Engineer%20%7C%20Platform%20Engineer%20%7C%20Agentic%20AI&descAlignY=58&descColor=c9d8f0" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulchoudhari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/choudharirahul)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dreamtechrc@gmail.com)
 [![Location](https://img.shields.io/badge/Indianapolis%2C%20IN-2E75B6?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -162,7 +162,7 @@ I'm open to **Lead SRE**, **Lead Security Engineer**, and **Lead Platform Engine
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulchoudhari)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/choudharirahul)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dreamtechrc@gmail.com)
 
 </div>
