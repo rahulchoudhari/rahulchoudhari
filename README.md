@@ -25,20 +25,24 @@ I specialize in the intersection of **Agentic AI**, **platform engineering**, an
 > A proprietary **Agentic AI platform** I architected at Cisco that serves as the single command center for security, compliance, and operations.
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                  UNIFIED OPERATIONS CENTER (UOC)                │
-├──────────────────┬──────────────────┬───────────────────────────┤
-│  🔍 Vulnerability │  📋 Compliance   │  ⚡ Ops Support           │
-│  Management      │  Monitoring      │                           │
-│                  │                  │                           │
-│  AI agents scan, │  FedRAMP/SOC2/   │  Intelligent runbook      │
-│  triage & auto-  │  PCI DSS         │  execution, incident      │
-│  remediate CVEs  │  continuous      │  correlation &            │
-│  across clouds   │  monitoring      │  auto-escalation          │
-├──────────────────┴──────────────────┴───────────────────────────┤
-│  📝 Auto RCA Generation    🗣️ Voice-based Jira Creation          │
-│  📄 Confluence Doc Automation    🔄 AI-Powered PR Reviews        │
-└─────────────────────────────────────────────────────────────────┘
+  DATA SOURCES
+  ┌──────────┐  ┌────────────┐  ┌───────────┐  ┌──────┐  ┌───────────┐
+  │ Wiz CSPM │  │GitGuardian │  │ SonarQube │  │ Jira │  │ PagerDuty │
+  └────┬─────┘  └─────┬──────┘  └─────┬─────┘  └──┬───┘  └─────┬─────┘
+       └───────────────┴───────────────┴────────────┴────────────┘
+                                       │
+  AI ORCHESTRATOR                      ▼
+  ┌──────────────────────────────────────────────────────────────────┐
+  │           AI Agent Orchestrator  ·  LLM  ·  RAG  ·  Agentic AI  │
+  └──────┬──────────────┬────────────────┬─────────────┬────────────┘
+         │              │                │             │             │
+         ▼              ▼                ▼             ▼             ▼
+  CAPABILITIES
+  ┌──────────┐  ┌────────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐
+  │  Vuln    │  │ Compliance │  │ Auto RCA │  │   Ops    │  │  Voice   │
+  │  Mgmt   │  │ FedRAMP    │  │Confluence│  │ Support  │  │  Jira    │
+  └──────────┘  └────────────┘  └──────────┘  └──────────┘  └──────────┘
+  MTTR ↓35%     200+ hrs saved   Auto-docs     Zero-touch    Hands-free
 ```
 
 ---
@@ -123,7 +127,7 @@ I specialize in the intersection of **Agentic AI**, **platform engineering**, an
       └─ Global server fleet · P2V/V2V migrations · SOX audits
       └─ Troy, MI  &  Seoul, South Korea 🌏
 
-2007 ──────────────────────────────────────────────────── 2011
+2006 ──────────────────────────────────────────────────── 2011
   ⚪  Mphasis  &  HCL Technologies  |  Unix/Linux Administrator
       └─ RHEL · HP-UX · Solaris · AIX · DR automation
 ```
@@ -132,21 +136,19 @@ I specialize in the intersection of **Agentic AI**, **platform engineering**, an
 
 ## 🏆 Certifications
 
-<div align="center">
+## Certifications
 
-> 🔗 **[View all verified badges on Credly →](https://www.credly.com/users/rahulchoudhari/badges#credly)**
+> 🏅 [View all verified badges on Credly](https://www.credly.com/users/rahulchoudhari/badges)
 
-| Badge | Certification | Issuer |
-|-------|--------------|--------|
-| [![AWS](https://img.shields.io/badge/Verified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/users/rahulchoudhari/badges#credly) | ☁️ AWS Certified Solutions Architect | Amazon Web Services |
-| [![CKA](https://img.shields.io/badge/Verified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/users/rahulchoudhari/badges#credly) | ⚙️ Certified Kubernetes Administrator (CKA) | CNCF |
-| [![CKAD](https://img.shields.io/badge/Verified-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://www.credly.com/users/rahulchoudhari/badges#credly) | ⚙️ Certified Kubernetes Application Developer (CKAD) | CNCF |
-| [![Azure](https://img.shields.io/badge/Verified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://www.credly.com/users/rahulchoudhari/badges#credly) | 🔷 Microsoft Certified: Azure Administrator & Expert | Microsoft |
-| [![Jenkins](https://img.shields.io/badge/Verified-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.credly.com/users/rahulchoudhari/badges#credly) | 🔧 Certified Jenkins Engineer | CloudBees |
-| [![GenAI](https://img.shields.io/badge/Verified-412991?style=flat-square&logo=openai&logoColor=white)](https://www.credly.com/users/rahulchoudhari/badges#credly) | 🤖 Generative AI Certification | — |
-| [![Cyber](https://img.shields.io/badge/Verified-1F4E79?style=flat-square&logo=shield&logoColor=white)](https://www.credly.com/users/rahulchoudhari/badges#credly) | 🔒 Cybersecurity Tools and Essentials | — |
-
-</div>
+| | Certification | Issuer |
+|---|---|---|
+| ☁️ | AWS Certified Solutions Architect | Amazon Web Services |
+| ⚙️ | Certified Kubernetes Administrator (CKA) | CNCF |
+| ⚙️ | Certified Kubernetes Application Developer (CKAD) | CNCF |
+| 🔷 | Microsoft Certified: Azure Administrator & Expert | Microsoft |
+| 🔧 | Certified Jenkins Engineer | CloudBees |
+| 🤖 | Generative AI Certification | Cisco |
+| 🔒 | Cybersecurity Tools and Essentials | IBM Coursera |
 
 ---
 
