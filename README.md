@@ -28,7 +28,7 @@ I specialize in the intersection of **Agentic AI**, **platform engineering**, an
 ┌─────────────────────────────────────────────────────────────────┐
 │                  UNIFIED OPERATIONS CENTER (UOC)                │
 ├──────────────────┬──────────────────┬───────────────────────────┤
-│  🔍 Vulnerability │  📋 Compliance   │  ⚡ Ops Support           │
+│ 🔍 Vulnerability │  📋 Compliance   │  ⚡ Ops Support           │
 │  Management      │  Monitoring      │                           │
 │                  │                  │                           │
 │  AI agents scan, │  FedRAMP/SOC2/   │  Intelligent runbook      │
