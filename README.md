@@ -148,6 +148,72 @@ I specialize in the intersection of **Agentic AI**, **platform engineering**, an
 
 ---
 
+## 🛠️ Personal Projects
+
+> Built for fun, family, and sharpening Python + Streamlit skills outside of work hours.
+
+---
+
+### 📊 [FlowViz](https://github.com/choudharirahul/flowviz) — Industry Data Analytics Platform
+
+> Professional-grade Streamlit app for visualizing and analyzing business data with ML-powered insights.
+
+Upload any CSV/Excel → ML auto-recommends the best chart type → export interactive Plotly visualizations and month-over-month comparison reports. Includes secure login, session management, and data export.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+---
+
+### 🎯 [SpellBowl](https://github.com/choudharirahul/spellbowl) — Pronunciation & Spelling Master
+
+> Full-featured spelling bee practice app with voice pronunciation, leaderboards, and timed competition mode. Co-built with my daughter **Aashrita** 👧
+
+Hear a word → type what you heard → instant feedback with similarity scoring, ARPAbet phonetic notation, case-sensitivity detection, and revision tracking. Supports 750 curated words + PDF word extraction.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![gTTS](https://img.shields.io/badge/gTTS-4285F4?style=flat-square&logo=google&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logoColor=white)
+
+---
+
+### 🎮 [LaserTag Operator](https://github.com/choudharirahul/lasertagoperator) — Tournament Manager
+
+> Real-time laser tag tournament system — because why not automate the fun?
+
+Create Best of 3/5 tournaments, manage up to 4 teams × 20 players, track eliminations live on a visual grid, auto-detect winners, and maintain full match history with a 30-minute match timer.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+---
+
+### ➕ [LearnMath](https://github.com/choudharirahul/Learnmath) — Fun Math for Kids
+
+> Built with ❤️ for my daughter **Aashrita** to make arithmetic fun and engaging.
+
+Practice addition, subtraction, multiplication, and division across 3 difficulty levels. 20-challenge mode with real-time accuracy tracking and celebratory 🎈 balloons on completion.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+### 🌈 [LearnColorPattern](https://github.com/choudharirahul/learncolorpattern) — Kindergarten Learning Game
+
+> Interactive educational app for young learners — letters, colors, shapes, weather, numbers, and pattern recognition.
+
+Six game modes for kindergarten & 1st grade. Uses deterministic logic (not ML) for reliable, transparent pattern generation — so parents and teachers always know what's being taught and why.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
 ## 🎯 What I'm Working On
 
 - 🧠 Expanding the **UOC** with multi-agent orchestration and self-healing infrastructure capabilities
