@@ -20,7 +20,8 @@ I specialize in the intersection of **Agentic AI**, **platform engineering**, an
 
 ---
 
-## 🚀 Flagship Project — Unified Operations Center (UOC)
+## 🚀 Flagship Project
+#### ✨ Unified Operations Center (UOC)
 
 > A proprietary **Agentic AI platform** I architected at Cisco that serves as the single command center for security, compliance, and operations.
 
@@ -44,6 +45,11 @@ I specialize in the intersection of **Agentic AI**, **platform engineering**, an
   └──────────┘  └────────────┘  └──────────┘  └──────────┘  └──────────┘
   MTTR ↓35%     200+ hrs saved   Auto-docs     Zero-touch    Hands-free
 ```
+#### 🔹 [CTXPress – AI Token Optimizer](https://github.com/rahulchoudhari/ctxpress)
+Self-hosted AI context and prompt optimization platform designed to reduce LLM token consumption, improve prompt efficiency, and lower operational cost before requests reach the model.
+
+**Pipeline:**  
+`User Request → Context Collection → RTK Filter → Caveman Compress → Prompt Optimizer → LLM Call`
 
 ---
 
