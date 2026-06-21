@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:2E75B6&height=200&section=header&text=Rahul%20Choudhari&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Lead%20SRE%20%7C%20Platform%20Engineer%20%7C%20Agentic%20AI%20%7C%20Creator%20of%20CARE&descAlignY=58&descColor=c9d8f0" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/choudharirahul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulchoudhari)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dreamtechrc@gmail.com)
 [![CARE Framework](https://img.shields.io/badge/CARE%20Framework-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulchoudhari/Customer-AI-Reliability-Engineering)
 [![Location](https://img.shields.io/badge/Indianapolis%2C%20IN-2E75B6?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
@@ -216,7 +216,7 @@ Self-hosted AI context and prompt optimization platform designed to reduce LLM t
 
 ---
 
-### 📊 [FlowViz](https://github.com/choudharirahul/flowviz) — Industry Data Analytics Platform
+### 📊 [FlowViz](https://github.com/rahulchoudhari/flowviz) — Industry Data Analytics Platform
 
 > Professional-grade Streamlit app for visualizing and analyzing business data with ML-powered insights.
 
@@ -229,7 +229,7 @@ Upload any CSV/Excel → ML auto-recommends the best chart type → export inter
 
 ---
 
-### 🎯 [SpellBowl](https://github.com/choudharirahul/spellbowl) — Pronunciation & Spelling Master
+### 🎯 [SpellBowl](https://github.com/rahulchoudhari/spellbowl) — Pronunciation & Spelling Master
 
 > Full-featured spelling bee practice app with voice pronunciation, leaderboards, and timed competition mode. Co-built with my daughter **Aashrita** 👧
 
@@ -242,7 +242,7 @@ Hear a word → type what you heard → instant feedback with similarity scoring
 
 ---
 
-### 🎮 [LaserTag Operator](https://github.com/choudharirahul/lasertagoperator) — Tournament Manager
+### 🎮 [LaserTag Operator](https://github.com/rahulchoudhari/lasertagoperator) — Tournament Manager
 
 > Real-time laser tag tournament system — because why not automate the fun?
 
@@ -254,7 +254,7 @@ Create Best of 3/5 tournaments, manage up to 4 teams × 20 players, track elimin
 
 ---
 
-### ➕ [LearnMath](https://github.com/choudharirahul/Learnmath) — Fun Math for Kids
+### ➕ [LearnMath](https://github.com/rahulchoudhari/Learnmath) — Fun Math for Kids
 
 > Built with ❤️ for my daughter **Aashrita** to make arithmetic fun and engaging.
 
@@ -265,7 +265,7 @@ Practice addition, subtraction, multiplication, and division across 3 difficulty
 
 ---
 
-### 🌈 [LearnColorPattern](https://github.com/choudharirahul/learncolorpattern) — Kindergarten Learning Game
+### 🌈 [LearnColorPattern](https://github.com/rahulchoudhari/learncolorpattern) — Kindergarten Learning Game
 
 > Interactive educational app for young learners — letters, colors, shapes, weather, numbers, and pattern recognition.
 
@@ -289,7 +289,7 @@ Six game modes for kindergarten & 1st grade. Uses deterministic logic (not ML) f
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/choudharirahul)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulchoudhari)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dreamtechrc@gmail.com)
 [![CARE Framework](https://img.shields.io/badge/CARE%20on%20GitHub-1F4E79?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulchoudhari/Customer-AI-Reliability-Engineering)
 
