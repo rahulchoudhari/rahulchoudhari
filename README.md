@@ -11,14 +11,20 @@
 
 ## 👋 About Me
 
-I'm a **Lead SRE, Security Engineer, and Platform Engineer** with **19+ years** of experience building, securing, and scaling cloud-native platforms at **Cisco**, **Equifax**, and **Eli Lilly**.
+**Senior Principal Engineer, SRE @ Eli Lilly** · Indianapolis, IN
 
-I specialize in the intersection of **Agentic AI**, **platform engineering**, and **enterprise security** — where automation meets reliability and compliance. I architect systems that don't just react to problems, but eliminate them autonomously.
-
-After 19 years in SRE, I identified a gap no existing framework addressed: **how do you apply reliability engineering to AI systems making real decisions in customer environments?** I built CARE to answer that.
+I build reliable, secure platforms for patient-facing healthcare services, and I use AI to make
+reliability **preventive instead of reactive**: spotting risk before it becomes an incident.
+20+ years across SRE, security and platform engineering.
 
 > *"Security and reliability aren't features you bolt on — they're foundations you architect from day one."*
 
+**Currently**
+- 🧠 Building **AI-based dashboards and applications** that surface early warning signs, predict
+  capacity and failure risk, and guide teams to act *before* users are impacted
+- 🔧 Defining SLOs/SLIs, leading P1/P2 incident response, and driving observability, CI/CD, IaC
+  and GitOps at Lilly
+- 🤖 Evolving the CARE Framework: SRE practices for AI systems
 ---
 
 ## 🆕 Open Source — CARE Framework
@@ -167,8 +173,13 @@ Self-hosted AI context and prompt optimization platform designed to reduce LLM t
 ## 💼 Experience Timeline
 
 ```
-2023 ──────────────────────────────────────────────────── Present
-  🔵  Cisco  |  Staff SRE & Security Engineer — Tech Lead
+2026 ──────────────────────────────────────────────────── present
+  🔵  Eli Lilly and Company  |  Senior Principal Engineer, SRE
+      └─ Customer and patient focus AI-driven preventive reliability
+      └─ Predictive dashboards, early-warning signals, SLO-based alerting
+
+2023 ──────────────────────────────────────────────────── 2026 (July)
+  🟢  Cisco  |  Staff SRE & Security Engineer — Tech Lead
       └─ UOC (Agentic AI Platform) · ETD Infrastructure · FedRAMP
       └─ CARE Framework (open source) · AI reliability governance
       └─ Mentoring 4–8 engineers · Org-wide security standards
