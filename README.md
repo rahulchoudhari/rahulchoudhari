@@ -218,7 +218,6 @@ Self-hosted AI context and prompt optimization platform designed to reduce LLM t
 ---
 
 ### 📑 [DS160 Filler](https://rahulchoudhari.github.io/ds160-filler/) — H1B DS-160 Filler
-> Professional-grade Streamlit app for visualizing and analyzing business data with ML-powered insights.
 
 Fill a new US visa DS-160 in minutes by reusing the one you submitted last time.
 
