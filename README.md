@@ -207,12 +207,20 @@ Self-hosted AI context and prompt optimization platform designed to reduce LLM t
 | 🔧 | Certified Jenkins Engineer | CloudBees |
 | 🤖 | Generative AI Certification | Cisco |
 | 🔒 | Cybersecurity Tools and Essentials | IBM Coursera |
+| 🤖 | NVIDIA-Certified Associate | AI Infrastructure and Operations |
 
 ---
 
 ## 🛠️ Personal Projects
 
 > Built for fun, family, and sharpening Python + Streamlit skills outside of work hours.
+
+---
+
+### 📑 [DS160 Filler](https://rahulchoudhari.github.io/ds160-filler/) — H1B DS-160 Filler
+> Professional-grade Streamlit app for visualizing and analyzing business data with ML-powered insights.
+
+Fill a new US visa DS-160 in minutes by reusing the one you submitted last time.
 
 ---
 
